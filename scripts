@@ -7,3 +7,4 @@ require(13682455765).RAroblox("SuperHeroespm")
 require(6355915532).load("SuperHeroespm")
 require(6274987259).v2("SuperHeroespm")
 require(11838049109).squidBomb("SuperHeroespm", false) -- set second value to true to disable safe mode
+require(12102103665).patrick("superheroespm")
